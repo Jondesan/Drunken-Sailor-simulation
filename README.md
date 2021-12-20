@@ -11,11 +11,11 @@
 ## Drunken Sailor
 
 ### Compilation
-´´´bash
+```bash
 make
-´´´
+```
 
 ### Execution
-´´´bash
+```bash
 make run
-´´´
+```

@@ -6,13 +6,16 @@
      |_____/ \___|_|\___|_| |_|\__|_|_| |_|\___|  \_____\___/|_| |_| |_| .__/ \__,_|\__|_|_| |_|\__, | |_____|_____|
                                                                        | |                       __/ |              
                                                                        |_|                      |___/                -->
-Final project readme file
+# Final project readme file
 
-Drunken Sailor
+## Drunken Sailor
 
-Compile in terminal:
+### Compilation
+´´´bash
 make
+´´´
 
-If you want to only run the program, and not compile it:
+### Execution
+´´´bash
 make run
-# final_pro
+´´´
